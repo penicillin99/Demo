@@ -1,0 +1,12 @@
+E:\VHEC\Demo\Model\bin\Debug\Model.dll.config
+E:\VHEC\Demo\Model\bin\Debug\Model.dll
+E:\VHEC\Demo\Model\bin\Debug\Model.pdb
+E:\VHEC\Demo\Model\bin\Debug\EntityFramework.dll
+E:\VHEC\Demo\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\VHEC\Demo\Model\bin\Debug\EntityFramework.xml
+E:\VHEC\Demo\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\VHEC\Demo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\VHEC\Demo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\VHEC\Demo\Model\obj\Debug\Model.csproj.CopyComplete
+E:\VHEC\Demo\Model\obj\Debug\Model.dll
+E:\VHEC\Demo\Model\obj\Debug\Model.pdb
